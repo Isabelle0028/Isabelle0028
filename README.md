@@ -4,7 +4,7 @@
 -Gosto de beber sucos, e coca cola
 -Faço curso de desenvolvimento de sistemas 
 -Trabalho com minha família em uma oficina de motos
--Amo cafeteiras, e sair com meus amigos--Sou alguém lerda, e besta, e brincalhona na maioria do tempo
+-Amo cafeteiras, e sair com meus amigos--Sou alguém lerda, e besta, e brincalhona na maioria do tempo.
 
 
 
