@@ -1,8 +1,12 @@
 -Isabelle vieira, tenho 16 anos
--Meus hobbies são desenhar, ler, ouvir música, ouvir podcasts e cozinhar
+-Meus hobbies são desenhar, ler, ouvir música, ouvir podcasts, amo vôlei, cozinhar e fazer academia
 -Tenho um cachorro chamado Thor, um vira-lata
 -Gosto de beber sucos, e coca cola
 -Faço curso de desenvolvimento de sistemas 
+-Trabalho com minha família em uma oficina de motos
+-Amo cafeteiras, e sair com meus amigos--Sou alguém lerda, e besta, e brincalhona na maioria do tempo
+
+
 
 
 <!---
